@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    font-family: 'Overpass Mono', monospace;
+    font-size: 32px;
+    color: black;
+}
+
+.searchbar {
+    background-color: #D9D9D9;
+}
